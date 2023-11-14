@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev -p 3046",
     "build": "next build",
-    "start": "next start",
+    "start": "next start -p 3046",
     "lint": "next lint"
   },
   "keywords": [],
